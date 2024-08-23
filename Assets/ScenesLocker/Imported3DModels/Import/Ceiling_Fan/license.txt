@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ceiling Fan
+* source:	https://sketchfab.com/3d-models/ceiling-fan-89959f29b59642759ee20867e8ca39a2
+* author:	The Mallu (https://sketchfab.com/The_mallu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ceiling Fan" (https://sketchfab.com/3d-models/ceiling-fan-89959f29b59642759ee20867e8ca39a2) by The Mallu (https://sketchfab.com/The_mallu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
